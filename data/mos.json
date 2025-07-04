@@ -6,13 +6,13 @@
       "items": [
         {
           "name": "Intel Core i9-13900K",
-          "img": "https://example.com/images/cpu1.jpg",
+          "img": "https://robynainsley21.github.io/images/maxxdoutsolutions/cpu landscape.jpg",
           "price": 589.99,
           "description": "High-performance CPU with 24 cores and 32 threads."
         },
         {
           "name": "AMD Ryzen 9 7950X",
-          "img": "https://example.com/images/cpu2.jpg",
+          "img": "https://robynainsley21.github.io/images/maxxdoutsolutions/cpu landscape.jpg",
           "price": 799.99,
           "description": "16-core processor with exceptional multitasking capabilities."
         }
@@ -20,17 +20,17 @@
     },
     {
       "title": "Monitors",
-      "img": "",
+      "img": "https://robynainsley21.github.io/images/maxxdoutsolutions/monitor landscape.jpg",
       "items": [
         {
           "name": "Dell UltraSharp U2720Q",
-          "img": "https://example.com/images/monitor1.jpg",
+          "img": "https://robynainsley21.github.io/images/maxxdoutsolutions/monitor landscape.jpg",
           "price": 599.99,
           "description": "27-inch 4K UHD monitor with excellent color accuracy."
         },
         {
           "name": "LG 34WN80C-B",
-          "img": "https://example.com/images/monitor2.jpg",
+          "img": "https://robynainsley21.github.io/images/maxxdoutsolutions/monitor landscape.jpg",
           "price": 799.99,
           "description": "34-inch curved ultrawide monitor with HDR support."
         }
@@ -42,13 +42,13 @@
       "items": [
         {
           "name": "Xbox Elite Series 2",
-          "img": "https://example.com/images/controller1.jpg",
+          "img": "https://robynainsley21.github.io/images/maxxdoutsolutions/controllers.jpg",
           "price": 179.99,
           "description": "Premium wireless controller with customizable features."
         },
         {
           "name": "Sony DualSense Edge",
-          "img": "https://example.com/images/controller2.jpg",
+          "img": "https://robynainsley21.github.io/images/maxxdoutsolutions/controllers.jpg",
           "price": 199.99,
           "description": "Advanced controller for PS5 with adaptive triggers and haptic feedback."
         }
@@ -62,13 +62,13 @@
       "items": [
         {
           "name": "Cooler Master MasterBox Q300L",
-          "img": "https://example.com/images/pcbox1.jpg",
+          "img": "https://robynainsley21.github.io/images/maxxdoutsolutions/pc box.jpg",
           "price": 69.99,
           "description": "Compact micro-ATX case with excellent airflow."
         },
         {
           "name": "NZXT H510",
-          "img": "https://example.com/images/pcbox2.jpg",
+          "img": "https://robynainsley21.github.io/images/maxxdoutsolutions/pc box.jpg",
           "price": 79.99,
           "description": "Mid-tower ATX case with a sleek design."
         }
@@ -80,13 +80,13 @@
       "items": [
         {
           "name": "Logitech MX Master 3",
-          "img": "https://example.com/images/mouse1.jpg",
+          "img": "https://robynainsley21.github.io/images/maxxdoutsolutions/pc mouse.jpg",
           "price": 99.99,
           "description": "Advanced wireless mouse with ergonomic design."
         },
         {
           "name": "Razer DeathAdder V2",
-          "img": "https://example.com/images/mouse2.jpg",
+          "img": "https://robynainsley21.github.io/images/maxxdoutsolutions/pc mouse.jpg",
           "price": 69.99,
           "description": "High-precision gaming mouse with customizable RGB lighting."
         }
@@ -98,13 +98,13 @@
       "items": [
         {
           "name": "Logitech F310",
-          "img": "https://example.com/images/controller3.jpg",
+          "img": "https://robynainsley21.github.io/images/maxxdoutsolutions/controllers.jpg",
           "price": 39.99,
           "description": "Affordable wired game controller compatible with multiple platforms."
         },
         {
           "name": "Thrustmaster T150 Pro",
-          "img": "https://example.com/images/controller4.jpg",
+          "img": "https://robynainsley21.github.io/images/maxxdoutsolutions/controllers.jpg",
           "price": 199.99,
           "description": "Racing wheel with force feedback for an immersive driving experience."
         }
