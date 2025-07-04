@@ -2,7 +2,7 @@
   "new_hardware": [
     {
       "title": "CPUs",
-      "img": "",
+      "img": "https://robynainsley21.github.io/images/maxxdoutsolutions/cpu landscape.jpg",
       "items": [
         {
           "name": "Intel Core i9-13900K",
@@ -38,7 +38,7 @@
     },
     {
       "title": "Game Controllers",
-      "img": "",
+      "img": "https://robynainsley21.github.io/images/maxxdoutsolutions/controllers.jpg",
       "items": [
         {
           "name": "Xbox Elite Series 2",
@@ -58,7 +58,7 @@
   "second_hand_hardware": [
     {
       "title": "PC Boxes",
-      "img": "",
+      "img": "https://robynainsley21.github.io/images/maxxdoutsolutions/pc box.jpg",
       "items": [
         {
           "name": "Cooler Master MasterBox Q300L",
@@ -76,7 +76,7 @@
     },
     {
       "title": "Mouses",
-      "img": "",
+      "img": "https://robynainsley21.github.io/images/maxxdoutsolutions/pc mouse.jpg",
       "items": [
         {
           "name": "Logitech MX Master 3",
@@ -94,7 +94,7 @@
     },
     {
       "title": "Game Controllers",
-      "img": "",
+      "img": "https://robynainsley21.github.io/images/maxxdoutsolutions/controllers.jpg",
       "items": [
         {
           "name": "Logitech F310",
